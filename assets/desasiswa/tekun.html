@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tekun</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="../jquery.min.js"></script>
+    <script type="text/javascript" src="../dist/js/bootstrap.js"></script>
+    <link href="../dist/css/bootstrap.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h4>Tekun</h4>
+    <div class="panel col-md-4">
+      <div class="panel-heading">
+        <h5 class="panel-title">Location on map</h5>
+      </div>
+
+	    <!-- <a href="http://maps.google.com/maps?q=5.355893,100.292197(Tekun M05)" class="btn btn-sblue">M05</a>
+		<a href="http://maps.google.com/maps?q=5.355540,100.291413(Tekun M06)" class="btn btn-sred">M06</a>
+		<a href="http://maps.google.com/maps?q=5.356200,100.291341(Tekun M09)" class="btn btn-default">Cafe</a> -->
+      <button type="button" onclick="Android.takeLocation(5.355893,100.292197)" class="btn btn-sblue btn-block">M05</button> 
+      <button type="button" onclick="Android.takeLocation(5.355540,100.291413)" class="btn btn-sred btn-block">M06</button> 
+      <button type="button" onclick="Android.takeLocation(5.356200,100.291341)" class="btn btn-block">Cafe</button> 
+		</div>
+    
+	</div>
+    <div class="panel col-md-4">
+    <div class="panel-heading">
+      <h5 class="panel-title">Notes</h5>
+    </div>Null
+    <ul class="list-group list-group-flush"></ul></div>
+  </body>
+</html>		
