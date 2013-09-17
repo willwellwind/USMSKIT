@@ -1,0 +1,67 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/building"
+        android:icon="@drawable/build"
+        android:showAsAction="ifRoom"
+        android:title="@string/building">
+    	<menu>
+    	    <group android:checkableBehavior="all">
+    	            	    
+    	    <item
+    	    android:id="@+id/desa"
+            android:title="@string/desa" />
+    	    <item
+    	    android:id="@+id/school"
+            android:title="@string/school" />
+    	    <item
+    	    android:id="@+id/hall"
+            android:title="@string/hall" />
+    	    <item
+    	    android:id="@+id/troom"
+            android:title="@string/troom" />
+    	    <item
+    	    android:id="@+id/block"
+            android:title="@string/block" />
+      		
+    	    </group>
+    	    </menu>
+      </item>
+     <item
+        android:id="@+id/bus"
+        android:icon="@drawable/b"
+        android:showAsAction="ifRoom"
+        android:title="@string/bus">
+    	<menu>
+    	    <group android:checkableBehavior="all">
+    	    <item
+    	    android:id="@+id/bus_stop"
+            android:title="@string/bus" />
+    	    <item
+    	    android:id="@+id/rroute"
+            android:title="@string/rroute" />
+    	    <item
+    	    android:id="@+id/broute"
+            android:title="@string/broute" />
+    	    <item
+    	    android:id="@+id/yroute"
+            android:title="@string/yroute" />
+    	    <item
+    	    android:id="@+id/proute"
+            android:title="@string/proute" />
+    	    
+    	    </group>
+    	    </menu>
+      </item>
+
+
+      <item 
+    	    android:id="@+id/clear"
+    	    android:showAsAction="ifRoom"
+            android:title="@string/clear" />
+      <item 
+    	    android:id="@+id/gps"
+    	    android:showAsAction="ifRoom"
+            android:title="@string/gps" />
+
+
+</menu>
