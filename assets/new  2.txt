@@ -1,0 +1,179 @@
+
+base2.style.transform= 'scale(0.5)';
+base2.style.msTransform= 'scale(0.5)';
+base2.style.webkitTransform = 'scale(0.5)';
+desa.style.transform= 'scale(0.5)';
+desa.style.msTransform= 'scale(0.5)';
+desa.style.webkitTransform = 'scale(0.5)';
+rroute.style.transform= 'scale(0.5)';
+		rroute.style.msTransform= 'scale(0.5)';
+		rroute.style.webkitTransform = 'scale(0.5)';
+		proute.style.transform= 'scale(0.5)';
+		proute.style.msTransform= 'scale(0.5)';
+		proute.style.webkitTransform = 'scale(0.5)';
+		broute.style.transform= 'scale(0.5)';
+		broute.style.msTransform= 'scale(0.5)';
+		broute.style.webkitTransform = 'scale(0.5)';
+		yroute.style.transform= 'scale(0.5)';
+		yroute.style.msTransform= 'scale(0.5)';
+		yroute.style.webkitTransform = 'scale(0.5)';
+		school.style.transform= 'scale(0.5)';
+		school.style.msTransform= 'scale(0.5)';
+		school.style.webkitTransform = 'scale(0.5)';
+		bus.style.transform= 'scale(0.5)';
+		bus.style.msTransform= 'scale(0.5)';
+		bus.style.webkitTransform = 'scale(0.5)';
+		troom.style.transform= 'scale(0.5)';
+		troom.style.msTransform= 'scale(0.5)';
+		troom.style.webkitTransform = 'scale(0.5)';
+		dewan.style.transform= 'scale(0.5)';
+		dewan.style.msTransform= 'scale(0.5)';
+		dewan.style.webkitTransform = 'scale(0.5)';
+
+
+
+function zoomMap(){
+
+
+	if (zLevel < 2){
+		//map.style.zoom=zLevel+25+"%";
+		zLevel+=0.25;
+		base2.style.transform= 'scale('+zLevel+')';
+		base2.style.msTransform= 'scale('+zLevel+')';
+		base2.style.webkitTransform = 'scale('+zLevel+')';
+		desa.style.transform= 'scale('+zLevel+')';
+		desa.style.msTransform= 'scale('+zLevel+')';
+		desa.style.webkitTransform = 'scale('+zLevel+')';
+		rroute.style.transform= 'scale('+zLevel+')';
+		rroute.style.msTransform= 'scale('+zLevel+')';
+		rroute.style.webkitTransform = 'scale('+zLevel+')';
+		proute.style.transform= 'scale('+zLevel+')';
+		proute.style.msTransform= 'scale('+zLevel+')';
+		proute.style.webkitTransform = 'scale('+zLevel+')';
+		broute.style.transform= 'scale('+zLevel+')';
+		broute.style.msTransform= 'scale('+zLevel+')';
+		broute.style.webkitTransform = 'scale('+zLevel+')';
+		yroute.style.transform= 'scale('+zLevel+')';
+		yroute.style.msTransform= 'scale('+zLevel+')';
+		yroute.style.webkitTransform = 'scale('+zLevel+')';
+		school.style.transform= 'scale('+zLevel+')';
+		school.style.msTransform= 'scale('+zLevel+')';
+		school.style.webkitTransform = 'scale('+zLevel+')';
+		bus.style.transform= 'scale('+zLevel+')';
+		bus.style.msTransform= 'scale('+zLevel+')';
+		bus.style.webkitTransform = 'scale('+zLevel+')';
+		troom.style.transform= 'scale('+zLevel+')';
+		troom.style.msTransform= 'scale('+zLevel+')';
+		troom.style.webkitTransform = 'scale('+zLevel+')';
+		dewan.style.transform= 'scale('+zLevel+')';
+		dewan.style.msTransform= 'scale('+zLevel+')';
+		dewan.style.webkitTransform = 'scale('+zLevel+')';
+		
+		
+		
+	}
+}
+
+function deZoomMap(){
+	if (zLevel > 0.5 ){		
+		zLevel-=0.25;
+		base2.style.transform= 'scale('+zLevel+')';
+		base2.style.msTransform= 'scale('+zLevel+')';
+		base2.style.webkitTransform = 'scale('+zLevel+')';
+		desa.style.transform= 'scale('+zLevel+')';
+		desa.style.msTransform= 'scale('+zLevel+')';
+		desa.style.webkitTransform = 'scale('+zLevel+')';
+		rroute.style.transform= 'scale('+zLevel+')';
+		rroute.style.msTransform= 'scale('+zLevel+')';
+		rroute.style.webkitTransform = 'scale('+zLevel+')';
+		proute.style.transform= 'scale('+zLevel+')';
+		proute.style.msTransform= 'scale('+zLevel+')';
+		proute.style.webkitTransform = 'scale('+zLevel+')';
+		broute.style.transform= 'scale('+zLevel+')';
+		broute.style.msTransform= 'scale('+zLevel+')';
+		broute.style.webkitTransform = 'scale('+zLevel+')';
+		yroute.style.transform= 'scale('+zLevel+')';
+		yroute.style.msTransform= 'scale('+zLevel+')';
+		yroute.style.webkitTransform = 'scale('+zLevel+')';
+		school.style.transform= 'scale('+zLevel+')';
+		school.style.msTransform= 'scale('+zLevel+')';
+		school.style.webkitTransform = 'scale('+zLevel+')';
+		bus.style.transform= 'scale('+zLevel+')';
+		bus.style.msTransform= 'scale('+zLevel+')';
+		bus.style.webkitTransform = 'scale('+zLevel+')';
+		troom.style.transform= 'scale('+zLevel+')';
+		troom.style.msTransform= 'scale('+zLevel+')';
+		troom.style.webkitTransform = 'scale('+zLevel+')';
+		dewan.style.transform= 'scale('+zLevel+')';
+		dewan.style.msTransform= 'scale('+zLevel+')';
+		dewan.style.webkitTransform = 'scale('+zLevel+')';
+	}
+}
+
+function minMap(){
+		base2.style.transform= 'scale(0.5)';
+		base2.style.msTransform= 'scale(0.5)';
+		base2.style.webkitTransform = 'scale(0.5)';
+		desa.style.transform= 'scale(0.5)';
+		desa.style.msTransform= 'scale(0.5)';
+		desa.style.webkitTransform = 'scale(0.5)';
+		rroute.style.transform= 'scale(0.5)';
+		rroute.style.msTransform= 'scale(0.5)';
+		rroute.style.webkitTransform = 'scale(0.5)';
+		proute.style.transform= 'scale(0.5)';
+		proute.style.msTransform= 'scale(0.5)';
+		proute.style.webkitTransform = 'scale(0.5)';
+		broute.style.transform= 'scale(0.5)';
+		broute.style.msTransform= 'scale(0.5)';
+		broute.style.webkitTransform = 'scale(0.5)';
+		yroute.style.transform= 'scale(0.5)';
+		yroute.style.msTransform= 'scale(0.5)';
+		yroute.style.webkitTransform = 'scale(0.5)';
+		school.style.transform= 'scale(0.5)';
+		school.style.msTransform= 'scale(0.5)';
+		school.style.webkitTransform = 'scale(0.5)';
+		bus.style.transform= 'scale(0.5)';
+		bus.style.msTransform= 'scale(0.5)';
+		bus.style.webkitTransform = 'scale(0.5)';
+		troom.style.transform= 'scale(0.5)';
+		troom.style.msTransform= 'scale(0.5)';
+		troom.style.webkitTransform = 'scale(0.5)';
+		dewan.style.transform= 'scale(0.5)';
+		dewan.style.msTransform= 'scale(0.5)';
+		dewan.style.webkitTransform = 'scale(0.5)';
+   zLevel=0.5;
+}
+
+function maxMap(){
+		base2.style.transform= 'scale(2)';
+		base2.style.msTransform= 'scale(2)';
+		base2.style.webkitTransform = 'scale(2)';
+		desa.style.transform= 'scale(2)';
+		desa.style.msTransform= 'scale(2)';
+		desa.style.webkitTransform = 'scale(2)';
+		rroute.style.transform= 'scale(2)';
+		rroute.style.msTransform= 'scale(2)';
+		rroute.style.webkitTransform = 'scale(2)';
+		proute.style.transform= 'scale(2)';
+		proute.style.msTransform= 'scale(2)';
+		proute.style.webkitTransform = 'scale(2)';
+		broute.style.transform= 'scale(2)';
+		broute.style.msTransform= 'scale(2)';
+		broute.style.webkitTransform = 'scale(2)';
+		yroute.style.transform= 'scale(2)';
+		yroute.style.msTransform= 'scale(2)';
+		yroute.style.webkitTransform = 'scale(2)';
+		school.style.transform= 'scale(2)';
+		school.style.msTransform= 'scale(2)';
+		school.style.webkitTransform = 'scale(2)';
+		bus.style.transform= 'scale(2)';
+		bus.style.msTransform= 'scale(2)';
+		bus.style.webkitTransform = 'scale(2)';
+		troom.style.transform= 'scale(2)';
+		troom.style.msTransform= 'scale(2)';
+		troom.style.webkitTransform = 'scale(2)';
+		dewan.style.transform= 'scale(2)';
+		dewan.style.msTransform= 'scale(2)';
+		dewan.style.webkitTransform = 'scale(2)';
+   zLevel=2;
+}
