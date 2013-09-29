@@ -3,31 +3,55 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="2124px"
 	 height="1083px" viewBox="0 0 2124 1083" enable-background="new 0 0 2124 1083" xml:space="preserve">
-<g id="TRoom">
-	<polygon opacity="0.5" fill="#FFE966" stroke="#1BC143" stroke-miterlimit="10" points="1258.25,563.429 1296.795,531.707 
-		1307.847,540.386 1327.354,533.846 1334.536,551.418 1311.044,561.55 1277.619,589.617 	"/>
-	<polygon opacity="0.5" fill="#FFE966" stroke="#1BC143" stroke-miterlimit="10" points="1209.853,570.059 1209.547,581.825 
-		1220.854,581.672 1220.854,587.173 1208.229,588.762 1193.809,596.646 1200.379,606.58 1220.119,598.24 1247.789,598.021 
-		1263.647,606.098 1271.583,597.192 1260.381,591.104 1248.904,587.965 1248.667,581.667 1256.762,581.519 1256.917,570.25 	"/>
-	<polygon opacity="0.5" fill="#FFE966" stroke="#1BC143" stroke-miterlimit="10" points="1540.869,690.645 1526.542,702.787 
-		1543.885,721.08 1543.885,721.08 1555.268,709.372 1555.268,709.372 1560.826,701.025 	"/>
+<g id="Troom">
+	<polygon opacity="0.5" fill="#FFE966" stroke="#1BC143" stroke-miterlimit="10" enable-background="new    " points="
+		1239.078,602.371 1226.411,602.371 1225.3,600.149 1214.411,601.926 1214.411,603.482 1202.856,606.371 1201.3,604.149 
+		1199.3,605.038 1192.189,592.815 1197.078,588.149 1198.412,589.926 1200.634,587.704 1206.856,587.704 1208.411,590.593 
+		1214.411,589.26 1214.411,585.927 1222.411,583.927 1223.3,580.149 1226.189,580.149 1226.189,578.149 1211.3,578.149 
+		1211.3,565.704 1218.856,565.704 1218.856,571.038 1220.856,571.038 1220.856,565.704 1228.189,565.704 1228.189,577.927 
+		1232.856,577.927 1232.856,572.149 1237.078,572.149 1237.078,578.149 1241.3,578.149 1241.3,567.704 1248.189,567.704 
+		1248.189,572.593 1251.3,572.593 1251.3,567.927 1257.967,567.927 1257.967,580.149 1242.633,580.149 1242.633,581.704 
+		1245.522,582.149 1246.189,585.038 1265.967,593.038 1273.967,600.149 1267.078,609.482 1265.078,608.149 1263.522,610.149 
+		1257.967,608.815 1252.633,605.038 1251.522,602.815 1242.633,601.482 1241.078,599.482 1239.967,599.482 	"/>
+	<polyline opacity="0.5" fill="#FFE966" stroke="#1BC143" stroke-miterlimit="10" enable-background="new    " points="
+		1334.585,536.789 1334.585,547.964 1330.776,548.217 1331.284,553.551 1329.506,554.059 1329.506,558.376 1325.696,560.662 
+		1322.648,557.106 1320.617,558.376 1318.585,555.075 1316.299,556.091 1313.76,553.551 1310.204,556.598 1314.775,561.678 
+		1280.49,590.63 1258.394,563.456 1298.013,530.694 1307.156,541.614 1311.22,537.043 1313.252,535.265 1316.807,534.757 
+		1320.363,532.471 1324.172,531.709 1327.728,531.201 1329.252,530.948 	"/>
+	<polygon opacity="0.5" fill="#FFE966" stroke="#1BC143" stroke-miterlimit="10" enable-background="new    " points="
+		1526.542,703.56 1541.253,690.177 1552.075,701.888 1552.075,705.984 1571.084,713.389 1564.354,727.245 1543.695,719.688 
+		1539.716,713.389 	"/>
 </g>
-<g id="TRoom_Text">
-	<g>
-		<rect x="1169.989" y="562.12" fill="none" width="100.833" height="42"/>
-		<text transform="matrix(1 0 0 1 1181.9591 572.4817)"><tspan x="0" y="0" fill="none" stroke="#726D0F" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">Bilik Tutorial</tspan><tspan x="12.938" y="14.4" fill="none" stroke="#726D0F" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">141-150</tspan></text>
-		<rect x="1249.082" y="567.883" fill="none" width="100.833" height="42"/>
-		<text transform="matrix(1 0 0 1 1261.0515 578.2452)"><tspan x="0" y="0" fill="none" stroke="#726D0F" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">Bilik Tutorial</tspan><tspan x="12.938" y="14.4" fill="none" stroke="#726D0F" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">101-140</tspan></text>
-		<rect x="1497.688" y="679.08" fill="none" width="100.833" height="42"/>
-		<text transform="matrix(1 0 0 1 1509.658 689.4424)"><tspan x="0" y="0" fill="none" stroke="#726D0F" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">Bilik Tutorial</tspan><tspan x="12.938" y="14.4" fill="none" stroke="#726D0F" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">151-162</tspan></text>
-	</g>
-	<g>
-		<rect x="1169.989" y="562.12" fill="none" width="100.833" height="42"/>
-		<text transform="matrix(1 0 0 1 1181.9591 572.4817)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">Bilik Tutorial</tspan><tspan x="12.938" y="14.4" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">141-150</tspan></text>
-		<rect x="1249.082" y="567.883" fill="none" width="100.833" height="42"/>
-		<text transform="matrix(1 0 0 1 1261.0515 578.2452)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">Bilik Tutorial</tspan><tspan x="12.938" y="14.4" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">101-140</tspan></text>
-		<rect x="1497.688" y="679.08" fill="none" width="100.833" height="42"/>
-		<text transform="matrix(1 0 0 1 1509.658 689.4424)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">Bilik Tutorial</tspan><tspan x="12.938" y="14.4" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">151-162</tspan></text>
+<g id="Troom_x5F_Text">
+	<g id="TRoom_Text">
+		<g>
+			<rect x="1169.989" y="562.12" fill="none" width="100.833" height="42"/>
+			
+				<text transform="matrix(1 0 0 1 1181.9591 572.4817)" fill="none" stroke="#726D0F" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">Bilik Tutorial</text>
+			
+				<text transform="matrix(1 0 0 1 1194.8971 586.8817)" fill="none" stroke="#726D0F" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">141-150</text>
+			<rect x="1249.082" y="567.883" fill="none" width="100.833" height="42"/>
+			
+				<text transform="matrix(1 0 0 1 1261.0515 578.2452)" fill="none" stroke="#726D0F" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">Bilik Tutorial</text>
+			
+				<text transform="matrix(1 0 0 1 1273.9895 592.6452)" fill="none" stroke="#726D0F" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">101-140</text>
+			<rect x="1497.688" y="679.08" fill="none" width="100.833" height="42"/>
+			
+				<text transform="matrix(1 0 0 1 1509.658 689.4424)" fill="none" stroke="#726D0F" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">Bilik Tutorial</text>
+			
+				<text transform="matrix(1 0 0 1 1522.5959 703.8424)" fill="none" stroke="#726D0F" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">151-162</text>
+		</g>
+		<g>
+			<rect x="1169.989" y="562.12" fill="none" width="100.833" height="42"/>
+			<text transform="matrix(1 0 0 1 1181.9591 572.4817)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">Bilik Tutorial</text>
+			<text transform="matrix(1 0 0 1 1194.8971 586.8817)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">141-150</text>
+			<rect x="1249.082" y="567.883" fill="none" width="100.833" height="42"/>
+			<text transform="matrix(1 0 0 1 1261.0515 578.2452)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">Bilik Tutorial</text>
+			<text transform="matrix(1 0 0 1 1273.9895 592.6452)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">101-140</text>
+			<rect x="1497.688" y="679.08" fill="none" width="100.833" height="42"/>
+			<text transform="matrix(1 0 0 1 1509.658 689.4424)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">Bilik Tutorial</text>
+			<text transform="matrix(1 0 0 1 1522.5959 703.8424)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">151-162</text>
+		</g>
 	</g>
 </g>
 </svg>

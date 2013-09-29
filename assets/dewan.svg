@@ -3,80 +3,143 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="2124px"
 	 height="1083px" viewBox="0 0 2124 1083" enable-background="new 0 0 2124 1083" xml:space="preserve">
-<g id="Hall">
-	<polygon opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" points="1490.901,406.607 
-		1506.584,403.692 1542.967,404.637 1542.982,453.831 1497.647,453.831 1490.3,446.797 1490.3,432.341 1494.858,429.932 
-		1495.104,420.825 1490.3,418.815 	"/>
-	<path opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" d="M1193.809,596.646
-		l6.57,9.934c0,0,14.483-7.313,19.74-8.34c6.544-1.279,25.579-1.093,31.846,1.166c4.736,1.707,11.868,6.844,11.868,6.844l7.75-9.146
-		c0,0-9.442-5.336-12.583-6.604c-2.413-0.974-10.096-2.535-10.096-2.535l-0.238-6.298l8.327,0.031l-0.077-11.448l-46.833-0.25
-		l-0.24,11.989l11.368-0.583l-0.073,6.559c0,0-11.119,0.116-14.639,1.16C1202.801,590.222,1193.809,596.646,1193.809,596.646z"/>
-	<polygon opacity="0.5" fill="#FF0000" stroke="#090970" stroke-miterlimit="10" points="1258.25,563.429 1277.667,589.417 
-		1311.583,561.25 1334.536,551.418 1327.5,533.654 1308.417,540.833 1296.795,531.707 	"/>
-	<polygon opacity="0.5" fill="#FF0000" stroke="#090970" stroke-miterlimit="10" points="1357.75,563.75 1384.75,548.5 
-		1401.5,548.5 1401.5,587 1362.5,588.493 	"/>
-	<polygon opacity="0.5" fill="#FF0000" stroke="#090970" stroke-miterlimit="10" points="1540.869,690.645 1526.542,702.787 
-		1543.885,721.08 1543.885,721.08 1555.268,709.372 1555.268,709.372 1560.826,701.025 	"/>
+<g id="Hall_1_">
 	
-		<circle opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" cx="1687.377" cy="684.326" r="14.364"/>
-	<polygon opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" points="1511.578,468.942 
-		1531.054,458.361 1540.869,474.254 1522.926,485.352 	"/>
+		<path opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" enable-background="new    " d="
+		M914.773,572.624h19.967v11.118h-9.757v19.513h24.505v16.563h-25.639v19.74h-11.345v-5.219h-7.941v-4.992l-5.445-5.899h-8.395
+		v-7.488h6.353l5.219-4.311l-0.227-5.219l-4.084-4.765h-5.899v-7.488h7.034l6.807-6.807v-4.311h8.849V572.624z"/>
 	
-		<circle opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" cx="902.79" cy="617.182" r="17.485"/>
+		<polygon opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" enable-background="new    " points="
+		1239.078,602.371 1226.411,602.371 1225.3,600.149 1214.411,601.926 1214.411,603.482 1202.856,606.371 1201.3,604.149 
+		1199.3,605.038 1192.189,592.815 1197.078,588.149 1198.412,589.926 1200.634,587.704 1206.856,587.704 1208.411,590.593 
+		1214.411,589.26 1214.411,585.927 1222.411,583.927 1223.3,580.149 1226.189,580.149 1226.189,578.149 1211.3,578.149 
+		1211.3,565.704 1218.856,565.704 1218.856,571.038 1220.856,571.038 1220.856,565.704 1228.189,565.704 1228.189,577.927 
+		1232.856,577.927 1232.856,572.149 1237.078,572.149 1237.078,578.149 1241.3,578.149 1241.3,567.704 1248.189,567.704 
+		1248.189,572.593 1251.3,572.593 1251.3,567.927 1257.967,567.927 1257.967,580.149 1242.633,580.149 1242.633,581.704 
+		1245.522,582.149 1246.189,585.038 1265.967,593.038 1273.967,600.149 1267.078,609.482 1265.078,608.149 1263.522,610.149 
+		1257.967,608.815 1252.633,605.038 1251.522,602.815 1242.633,601.482 1241.078,599.482 1239.967,599.482 	"/>
 	
-		<rect x="1186.947" y="789.071" opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" width="23.801" height="12.158"/>
-	<polygon opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" points="1648.953,746.176 
-		1648.129,767.515 1651.754,767.515 1651.754,773.775 1657.849,773.775 1668.392,769.821 1677.123,758.125 1670.673,742.805 	"/>
+		<polyline opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" enable-background="new    " points="
+		1334.585,536.789 1334.585,547.964 1330.776,548.217 1331.284,553.551 1329.506,554.059 1329.506,558.376 1325.696,560.662 
+		1322.648,557.106 1320.617,558.376 1318.585,555.075 1316.299,556.091 1313.76,553.551 1310.204,556.598 1314.775,561.678 
+		1280.49,590.63 1258.394,563.456 1298.013,530.694 1307.156,541.614 1311.22,537.043 1313.252,535.265 1316.807,534.757 
+		1320.363,532.471 1324.172,531.709 1327.728,531.201 1329.252,530.948 	"/>
+	
+		<polygon opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" enable-background="new    " points="
+		1526.542,703.56 1541.253,690.177 1552.075,701.888 1552.075,705.984 1571.084,713.389 1564.354,727.245 1543.695,719.688 
+		1539.716,713.389 	"/>
+	
+		<path opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" enable-background="new    " d="
+		M1660.869,778.629l-3.233-1.244l0.995-2.238l-12.186-4.974l2.238-5.471l2.238-2.238c0,0-3.482-4.227-3.73-5.72
+		c-0.249-1.492-0.743-5.467,1.492-7.461c3.485-3.108,14.502-4.052,20.144-5.969c1.215-0.413,4.974,8.215,4.974,9.948
+		c0,2.477-0.194,11.391-1.99,12.683c-1.139,0.82,1.243,0.497,1.243,0.497l-5.969,15.17l-2.487-0.995L1660.869,778.629z"/>
+	
+		<polygon opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" enable-background="new    " points="
+		1683.458,662.186 1683.774,657.437 1684.408,656.171 1685.674,655.854 1686.624,656.487 1687.257,657.754 1686.94,662.503 
+		1690.74,662.503 1690.423,667.252 1693.906,667.569 1693.273,677.384 1699.288,684.982 1709.103,685.932 1708.787,689.415 
+		1713.219,690.048 1712.903,693.848 1717.335,694.481 1718.602,695.114 1718.918,696.38 1718.285,697.647 1717.019,697.964 
+		1712.586,697.647 1711.953,701.446 1707.52,700.813 1707.52,704.296 1688.84,702.396 1676.492,709.678 1678.392,711.894 
+		1670.793,715.694 1659.395,701.763 1664.144,694.481 1666.044,697.014 1674.909,685.299 1675.859,666.302 1679.342,666.619 
+		1679.658,661.87 	"/>
+	
+		<polygon opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" enable-background="new    " points="
+		1505.556,472.974 1503.463,467.95 1509.325,462.088 1507.441,457.483 1515.186,452.877 1516.233,455.599 1518.745,454.761 
+		1519.792,456.855 1522.932,457.692 1522.304,456.436 1528.165,459.157 1526.909,457.064 1531.724,458.529 1530.468,456.227 
+		1536.12,458.32 1534.864,456.645 1539.26,457.273 1542.609,463.554 1539.888,467.322 1539.051,465.228 1537.376,471.09 
+		1536.539,468.996 1535.492,473.602 1534.027,471.718 1532.561,477.579 1531.514,475.905 1530.468,478.626 1531.724,481.975 
+		1529.212,482.603 1530.886,485.743 1523.141,489.512 1521.466,485.325 1512.255,485.743 1509.743,480.929 1513.093,477.789 
+		1510.79,472.764 	"/>
+	
+		<polygon opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" enable-background="new    " points="
+		1551.841,432.371 1542.591,432.371 1542.591,439.59 1541.012,439.59 1541.012,447.035 1518.001,447.035 1518.001,448.163 
+		1521.836,448.163 1521.836,453.578 1513.94,453.578 1513.94,451.773 1504.465,451.773 1490.703,445.907 1490.703,434.401 
+		1504.465,429.213 1514.391,429.213 1514.391,427.634 1503.788,427.634 1491.605,421.542 1491.605,410.488 1504.916,404.848 
+		1514.391,404.848 1514.391,403.945 1522.513,403.945 1522.513,409.585 1518.677,409.585 1518.677,410.488 1541.463,410.488 
+		1541.463,418.384 1543.042,418.384 1543.042,426.054 1552.067,426.054 	"/>
+	
+		<polygon opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" enable-background="new    " points="
+		1333.211,501.37 1405.95,501.624 1405.95,534.825 1401.135,534.825 1401.135,592.105 1385.675,592.358 1385.421,589.063 
+		1358.302,588.81 1354.5,565.239 1385.421,547.751 1385.421,534.825 1333.211,534.825 	"/>
+	
+		<rect x="1184.298" y="795.321" opacity="0.5" fill="#FF0000" stroke="#090970" stroke-linejoin="round" stroke-miterlimit="10" enable-background="new    " width="22.222" height="5.619"/>
 </g>
-<g id="Hall_Text">
-	<g>
-		<rect x="1507.879" y="401.051" fill="none" width="49.444" height="54.354"/>
-		<text transform="matrix(1 0 0 1 1507.8784 411.4132)"><tspan x="0" y="0" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">SK1 </tspan><tspan x="0" y="14.4" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">SK2 </tspan><tspan x="0" y="28.8" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">SK3 </tspan><tspan x="0" y="43.2" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">SK4</tspan></text>
-		<rect x="1638.081" y="756.162" fill="none" width="57.736" height="26.223"/>
-		
-			<text transform="matrix(1 0 0 1 1638.0815 766.5243)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DK E48</text>
-		<rect x="1198.945" y="588.883" fill="none" width="81.131" height="26.246"/>
-		
-			<text transform="matrix(1 0 0 1 1198.9445 599.2452)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKS-DKW</text>
-		<rect x="1267.62" y="554.76" fill="none" width="81.131" height="26.246"/>
-		
-			<text transform="matrix(1 0 0 1 1267.6202 565.1223)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKG-DKR</text>
-		<rect x="1303.631" y="560.129" fill="none" width="169.948" height="45.982"/>
-		<text transform="matrix(1 0 0 1 1372.6448 570.4908)"><tspan x="0" y="0" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DTSP</tspan><tspan x="-26.572" y="7.2" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="6">(Dewan Tuanku Syed Putra)</tspan></text>
-		<rect x="1495.233" y="460.376" fill="none" width="57.185" height="35.082"/>
-		<text transform="matrix(1 0 0 1 1496.4012 470.7386)"><tspan x="0" y="0" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKA DKB</tspan><tspan x="14.697" y="14.4" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKC</tspan></text>
-		<rect x="1534.084" y="702.84" fill="none" width="25.925" height="14.021"/>
-		
-			<text transform="matrix(1 0 0 1 1534.084 713.2029)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKZ</text>
-		<rect x="1662.708" y="674.365" fill="none" width="58.125" height="26.246"/>
-		<text transform="matrix(1 0 0 1 1664.3344 684.7275)"><tspan x="0" y="0" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKD DKE</tspan><tspan x="15.229" y="14.4" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKF</tspan></text>
-		<rect x="1169.126" y="789.89" fill="none" width="81.131" height="26.246"/>
-		
-			<text transform="matrix(1 0 0 1 1169.1262 800.2516)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKG-31</text>
-		<rect x="895.639" y="606.871" fill="none" width="41.205" height="26.246"/>
-		<text transform="matrix(1 0 0 1 895.6385 617.2338)"><tspan x="0" y="0" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKX</tspan><tspan x="0" y="14.4" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKY</tspan></text>
-	</g>
-	<g>
-		<rect x="1507.879" y="401.051" fill="none" width="49.444" height="54.354"/>
-		<text transform="matrix(1 0 0 1 1507.8784 411.4132)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">SK1 </tspan><tspan x="0" y="14.4" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">SK2 </tspan><tspan x="0" y="28.8" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">SK3 </tspan><tspan x="0" y="43.2" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">SK4</tspan></text>
-		<rect x="1638.081" y="756.162" fill="none" width="57.736" height="26.223"/>
-		<text transform="matrix(1 0 0 1 1638.0815 766.5243)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DK E48</text>
-		<rect x="1198.945" y="588.883" fill="none" width="81.131" height="26.246"/>
-		<text transform="matrix(1 0 0 1 1198.9445 599.2452)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKS-DKW</text>
-		<rect x="1267.62" y="554.76" fill="none" width="81.131" height="26.246"/>
-		<text transform="matrix(1 0 0 1 1267.6202 565.1223)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKG-DKR</text>
-		<rect x="1303.631" y="560.129" fill="none" width="169.948" height="45.982"/>
-		<text transform="matrix(1 0 0 1 1372.6448 570.4908)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DTSP</tspan><tspan x="-26.572" y="7.2" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="6">(Dewan Tuanku Syed Putra)</tspan></text>
-		<rect x="1495.233" y="460.376" fill="none" width="57.185" height="35.082"/>
-		<text transform="matrix(1 0 0 1 1496.4012 470.7386)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKA DKB</tspan><tspan x="14.697" y="14.4" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKC</tspan></text>
-		<rect x="1534.084" y="702.84" fill="none" width="25.925" height="14.021"/>
-		<text transform="matrix(1 0 0 1 1534.084 713.2029)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKZ</text>
-		<rect x="1662.708" y="674.365" fill="none" width="58.125" height="26.246"/>
-		<text transform="matrix(1 0 0 1 1664.3344 684.7275)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKD DKE</tspan><tspan x="15.229" y="14.4" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKF</tspan></text>
-		<rect x="1169.126" y="789.89" fill="none" width="81.131" height="26.246"/>
-		<text transform="matrix(1 0 0 1 1169.1262 800.2516)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKG-31</text>
-		<rect x="895.639" y="606.871" fill="none" width="41.205" height="26.246"/>
-		<text transform="matrix(1 0 0 1 895.6385 617.2338)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKX</tspan><tspan x="0" y="14.4" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKY</tspan></text>
+<g id="Hall_Text_1_">
+	<g id="Hall_Text">
+		<g>
+			<rect x="1507.879" y="401.051" fill="none" width="49.444" height="54.354"/>
+			
+				<text transform="matrix(1 0 0 1 1507.8784 411.4132)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">SK1 </text>
+			
+				<text transform="matrix(1 0 0 1 1507.8784 425.8132)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">SK2 </text>
+			
+				<text transform="matrix(1 0 0 1 1507.8784 440.2132)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">SK3 </text>
+			
+				<text transform="matrix(1 0 0 1 1507.8784 454.6132)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">SK4</text>
+			<rect x="1638.081" y="756.162" fill="none" width="57.736" height="26.223"/>
+			
+				<text transform="matrix(1 0 0 1 1638.0815 766.5244)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DK E48</text>
+			<rect x="1198.945" y="588.883" fill="none" width="81.131" height="26.246"/>
+			
+				<text transform="matrix(1 0 0 1 1198.9445 599.2452)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKS-DKW</text>
+			<rect x="1267.62" y="554.76" fill="none" width="81.131" height="26.246"/>
+			
+				<text transform="matrix(1 0 0 1 1267.6202 565.1223)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKG-DKR</text>
+			<rect x="1303.631" y="560.129" fill="none" width="169.948" height="45.982"/>
+			
+				<text transform="matrix(1 0 0 1 1372.6448 570.4908)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DTSP</text>
+			
+				<text transform="matrix(1 0 0 1 1346.0728 577.6908)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="6">(Dewan Tuanku Syed Putra)</text>
+			<rect x="1495.233" y="460.376" fill="none" width="57.185" height="35.082"/>
+			
+				<text transform="matrix(1 0 0 1 1496.4012 470.7386)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKA DKB</text>
+			
+				<text transform="matrix(1 0 0 1 1511.0983 485.1386)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKC</text>
+			<rect x="1534.084" y="702.84" fill="none" width="25.925" height="14.021"/>
+			
+				<text transform="matrix(1 0 0 1 1534.084 713.2029)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKZ</text>
+			<rect x="1662.708" y="674.365" fill="none" width="58.125" height="26.246"/>
+			
+				<text transform="matrix(1 0 0 1 1664.3344 684.7275)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKD DKE</text>
+			
+				<text transform="matrix(1 0 0 1 1679.5634 699.1274)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKF</text>
+			<rect x="1169.126" y="789.89" fill="none" width="81.131" height="26.246"/>
+			
+				<text transform="matrix(1 0 0 1 1169.1262 800.2516)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKG-31</text>
+			<rect x="895.639" y="606.871" fill="none" width="41.205" height="26.246"/>
+			
+				<text transform="matrix(1 0 0 1 895.6385 617.2338)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKX</text>
+			
+				<text transform="matrix(1 0 0 1 895.6385 631.6338)" fill="none" stroke="#A51111" stroke-width="2" font-family="'Tahoma-Bold'" font-size="12">DKY</text>
+		</g>
+		<g>
+			<rect x="1507.879" y="401.051" fill="none" width="49.444" height="54.354"/>
+			<text transform="matrix(1 0 0 1 1507.8784 411.4132)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">SK1 </text>
+			<text transform="matrix(1 0 0 1 1507.8784 425.8132)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">SK2 </text>
+			<text transform="matrix(1 0 0 1 1507.8784 440.2132)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">SK3 </text>
+			<text transform="matrix(1 0 0 1 1507.8784 454.6132)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">SK4</text>
+			<rect x="1638.081" y="756.162" fill="none" width="57.736" height="26.223"/>
+			<text transform="matrix(1 0 0 1 1638.0815 766.5244)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DK E48</text>
+			<rect x="1198.945" y="588.883" fill="none" width="81.131" height="26.246"/>
+			<text transform="matrix(1 0 0 1 1198.9445 599.2452)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKS-DKW</text>
+			<rect x="1267.62" y="554.76" fill="none" width="81.131" height="26.246"/>
+			<text transform="matrix(1 0 0 1 1267.6202 565.1223)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKG-DKR</text>
+			<rect x="1303.631" y="560.129" fill="none" width="169.948" height="45.982"/>
+			<text transform="matrix(1 0 0 1 1372.6448 570.4908)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DTSP</text>
+			<text transform="matrix(1 0 0 1 1346.0728 577.6908)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="6">(Dewan Tuanku Syed Putra)</text>
+			<rect x="1495.233" y="460.376" fill="none" width="57.185" height="35.082"/>
+			<text transform="matrix(1 0 0 1 1496.4012 470.7386)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKA DKB</text>
+			<text transform="matrix(1 0 0 1 1511.0983 485.1386)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKC</text>
+			<rect x="1534.084" y="702.84" fill="none" width="25.925" height="14.021"/>
+			<text transform="matrix(1 0 0 1 1534.084 713.2029)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKZ</text>
+			<rect x="1662.708" y="674.365" fill="none" width="58.125" height="26.246"/>
+			<text transform="matrix(1 0 0 1 1664.3344 684.7275)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKD DKE</text>
+			<text transform="matrix(1 0 0 1 1679.5634 699.1274)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKF</text>
+			<rect x="1169.126" y="789.89" fill="none" width="81.131" height="26.246"/>
+			<text transform="matrix(1 0 0 1 1169.1262 800.2516)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKG-31</text>
+			<rect x="895.639" y="606.871" fill="none" width="41.205" height="26.246"/>
+			<text transform="matrix(1 0 0 1 895.6385 617.2338)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKX</text>
+			<text transform="matrix(1 0 0 1 895.6385 631.6338)" fill="#FFFFFF" font-family="'Tahoma-Bold'" font-size="12">DKY</text>
+		</g>
 	</g>
 </g>
 </svg>
